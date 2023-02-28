@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E07NGhRg0uvg39e/OASDpJT+eTzqzzNk9VsGzOSFA/zoCCeN8rkzS9RYuA4DA5lIKLZGntjI2a8UJtOY9En3Ig==",
+  "dgSpecHash": "sTOl3xIQqLb4KPi6emtKTZM2pz36VvFNpR6BotcZKFz4rsvYO7D1NHcFf1mWo2MC8Y4RPv/YKgXQvQ9556ENCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shubham\\Desktop\\CERTY-Engine\\c+d\\c+d.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Shubham\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
